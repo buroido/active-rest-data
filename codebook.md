@@ -207,5 +207,6 @@
 ## 参考文献
 
 - Braun, V., & Clarke, V. (2006). Using thematic analysis in psychology. _Qualitative Research in Psychology_, 3(2), 77–101.
+- Nguyen-Trung, K. (2025). ChatGPT in thematic analysis: Can AI become a research assistant in qualitative research? _Quality & Quantity_, 59, 4945–4978. https://doi.org/10.1007/s11135-025-02165-z
 - Sonnentag, S., & Fritz, C. (2007). The Recovery Experience Questionnaire. _Journal of Occupational Health Psychology_, 12(3), 204–221.
 - Kaplan, S. (1995). The restorative benefits of nature. _Journal of Environmental Psychology_, 15(3), 169–182.
