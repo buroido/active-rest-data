@@ -39,7 +39,7 @@ data/
 | task_duration_min   | 作業時間（分）                     |
 | rest_duration_min   | 休憩時間（分）                     |
 | fatigue_before_rest | 作業終了時の疲労感（1〜5）         |
-| loss_after_rest     | 休憩終了時の喪失感（1〜5）         |
+| loss_after_rest     | 休憩終了時の喪失感のなさ（1=非常に感じた ／ 5=全く感じなかった）※逆転項目 |
 | extend_intention    | 休憩時間を延長したい気持ち（1〜5） |
 | task_return_ease    | 作業に戻りやすいと感じたか（1〜5） |
 | detachment          | 心理的デタッチメント（1〜5）     |
@@ -48,6 +48,10 @@ data/
 | control             | コントロール（1〜5）               |
 | rest_satisfaction   | 総合的な休憩満足度（1〜5）         |
 | self_efficacy       | 状態自己効力感（1〜5）             |
+| being_away          | 作業とは別の場所や世界にいるような感覚（1〜5） |
+| fascination         | 活動に自然と注意が向いた感覚（1〜5）           |
+| extent              | 短時間でもまとまった体験として感じられたか（1〜5） |
+| compatibility       | 今求めていた休憩に合っていたか（1〜5）         |
 
 #### 評定スケール
 
